@@ -1,6 +1,6 @@
 ### Hi there, I'm
 # Junior DCHENGA
-🔭 My Website: <br>🌱 I’m Currently Learning Full-Stack Path on Codecademy.
+🔭 My Website: <br>🌱 I’m Currently Learning Full-Stack Engineer Path on Codecademy.
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
